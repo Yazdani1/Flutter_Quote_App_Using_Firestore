@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089950644262",
+    "firebase_url": "https://quote-app-232fb.firebaseio.com",
+    "project_id": "quote-app-232fb",
+    "storage_bucket": "quote-app-232fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089950644262:android:12f3b2fe0e1509fb",
+        "android_client_info": {
+          "package_name": "com.ydc.flutter_quote_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089950644262-thrhi4k155r5b790b1grd2jkaf3bg8o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGewZwAj5IS6PJiau0urlXTarCBMW6hPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089950644262-thrhi4k155r5b790b1grd2jkaf3bg8o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
