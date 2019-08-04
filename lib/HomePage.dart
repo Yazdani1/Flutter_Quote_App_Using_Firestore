@@ -76,7 +76,7 @@ class _HomeState extends State<Home> {
                         children: <Widget>[
 
                           new Expanded(
-                              flex: 2,
+                              flex: 3,
                             child: new Container(
                               color: color,
                               child: Align(
