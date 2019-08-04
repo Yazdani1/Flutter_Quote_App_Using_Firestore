@@ -6,15 +6,11 @@ class Home extends StatefulWidget {
   @override
   _HomeState createState() => new _HomeState();
 }
-
 class _HomeState extends State<Home> {
   
   StreamSubscription<QuerySnapshot>subscription;
-  
   List<DocumentSnapshot>snapshot;
-  
   CollectionReference collectionReference=Firestore.instance.collection("Quote");
-  
   @override
   void initState() {
     
